@@ -29,7 +29,7 @@ class Student extends Component {
     console.log('usersList', usersList)
     return (
       <div>
-        <h1> Welcome to Student Page</h1>
+        <h1> Hi I am Student page </h1>
         <button>
           <Link to="/users"> Back  </Link>
   
